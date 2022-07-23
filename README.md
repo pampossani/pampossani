@@ -1,16 +1,29 @@
-### Hi there 👋
+Olá! Eu sou a Pâmela Possani!
 
-<!--
-**pampossani/pampossani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/pampossani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pampossani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pampossani&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+ 
+  <img align="center" alt="Pam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pam-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <a href="https://interruptedreamer.com/"><img align="right" src="https://i.picasion.com/pic92/6be96e7cf53cffcc9a6b921a1b0c67fe.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+</div>
+
+<div> 
+     <a href="https://br.pinterest.com/pamelapossani/" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
+    <a href="https://instagram.com/pampossani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pamelarpossani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/p%C3%A2mela-possani-7929b16b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.deviantart.com/pammyjonas" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a>
+  
+  </div>
+
+- 🌱 Estou estudando o curso Elas na Tech com programação HTML, CSS e Javascript!
+- 😄 Pronouns: ela/dela
