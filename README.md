@@ -1,4 +1,4 @@
-Olá! Eu sou a Pâmela Possani!
+Olá! Eu sou a Pâmela Possani e esse é meu perfil no GitHub! Aqui você vai encontrar alguns projetos e estudos de linguagens de programação!
 
 <div align="center">
   <a href="https://github.com/pampossani">
