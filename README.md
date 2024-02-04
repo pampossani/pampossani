@@ -1,4 +1,4 @@
-Olá! Eu sou a Pâmela Possani e esse é meu perfil no GitHub! Aqui você vai encontrar alguns projetos e estudos de linguagens de programação!
+Olá! Eu sou a Pâm e esse é meu perfil no GitHub! Aqui você vai encontrar alguns projetos e estudos de linguagens de programação que estou fazendo e gostaria de compartilhar.
 
 <div align="center">
   <a href="https://github.com/pampossani">
@@ -24,5 +24,6 @@ Olá! Eu sou a Pâmela Possani e esse é meu perfil no GitHub! Aqui você vai en
   
   </div>
 
-- 🌱 Estou estudando o curso Elas na Tech com programação HTML, CSS e Javascript!
-- 😄 Pronouns: ela/dela
+- 🌱 Atualmente, fazendo o curso de Desenvolvimento Web Completo pela Udemy
+- 👩‍💻 Iniciei esse GitHub devido ao Projeto #ElasNaTech, voltado para programação e desenvolvimento em Tecnologia para mulheres.
+- 😄 Pronouns: ela/dela 👩
