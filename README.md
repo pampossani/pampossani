@@ -19,7 +19,7 @@ Olá! Eu sou a Pâm e esse é meu perfil no GitHub! Aqui você vai encontrar alg
      <a href="https://br.pinterest.com/pamelapossani/" target="_blank"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
     <a href="https://instagram.com/pampossani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pamelarpossani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/p%C3%A2mela-possani-7929b16b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="www.linkedin.com/in/pamela-possani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://www.deviantart.com/pammyjonas" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" target="_blank"></a>
   
   </div>
