@@ -1,4 +1,4 @@
-Olá! Eu sou a Pâm e esse é meu perfil no GitHub! Aqui você vai encontrar alguns projetos e estudos de linguagens de programação que estou fazendo e gostaria de compartilhar.
+Olá! Eu sou a Pâmela e esse é meu perfil no GitHub! Aqui você vai encontrar alguns projetos de linguagens de programação, além de processos de novos sistemas e negócios que estou aplicando minhas experiências e habilidades.
 
 <div align="center">
   <a href="https://github.com/pampossani">
